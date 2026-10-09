@@ -1,0 +1,7 @@
+{
+  "name": "AG GENRAL STORE",
+  "description": "AG GENRAL STORE, Bhatni Bazar, Bishan Pur Sundar, Bihar. Explore grocery essentials, spices, rice, pulses, sugar and everyday household products.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
